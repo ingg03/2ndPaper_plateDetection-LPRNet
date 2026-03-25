@@ -129,7 +129,7 @@ This project is licensed under the MIT License.
 김지섭 (Kim JiSeob)  
 GitHub: [https://github.com/kjs6702](https://github.com/kjs6702)
 
-강인경 (Kang InGyeong)
+강인경 (Kang InGyeong)  
 GitHub: [https://github.com/ingg03](https://github.com/ingg03)
 
 박시형 (Park SiHyeong)  
